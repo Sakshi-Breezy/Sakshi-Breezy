@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    This is Sakshi, a <b>fourth year student </b> from <a href="https://www.iiitdmj.ac.in/"> <b>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur,</b>, Ranchi</a>. I am an aspiring Data Scientist with experience in <b>Machine Learning, Deep Learning</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b></b>&nbsp;&nbsp,<br><b></b>
+    This is Sakshi, a <b>fourth year student </b> from <a href="https://www.iiitdmj.ac.in/"> <b>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur,</b></a>. I am an aspiring Data Scientist with experience in <b>Machine Learning, Deep Learning</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b></b>&nbsp;&nbsp,<br><b></b>
     I am obsessed with the idea of <b>improving</b> myself. I am open to <b>project collaborations.</b> <br>
     
     
